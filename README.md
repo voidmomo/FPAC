@@ -1,6 +1,6 @@
 # FPAC
-Frame Point Attentions Convolutional
+Frame Point Attentions Convolution
 
-Frame Point Attentions Convolutional is a convolutional operator for point cloud
+Frame Point Attentions Convolution is a convolution operator for point cloud
 
 The source will soon updated
