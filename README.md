@@ -25,7 +25,7 @@ This project passed the test in the following environment
 - CUDA 10.2
 - cudnn 7.6
 
-###Harware
+### Harware
 - Intel Core i9 9900K
 - NVIDIA TITAN RTX
 - 64GB RAM
